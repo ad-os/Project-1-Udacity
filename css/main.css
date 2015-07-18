@@ -1,0 +1,84 @@
+* {
+	font-family: 'Poiret One', cursive;
+}
+
+hr {
+	border-top-width: 5px;
+	border-top-color: #4DB6AC;
+}
+
+
+h1 {
+	color: #92374D;
+}
+
+h3 {
+	color: #E1DD8F;
+}
+
+a:visited, a:link, a:active{
+	text-decoration: none;
+}
+
+a:hover{
+	color: grey;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.margin{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.weight {
+	font-weight: bold;
+}
+
+.size {
+	font-size: 44px;
+}
+
+.rightMargin{
+	margin-right: 20px;
+}
+
+.center{
+	text-align: center;
+}
+
+.linkedInColor{
+	color: #1B86BC;
+}
+
+.blackColor {
+	color: black;
+}
+
+.featuredHeading{
+	color: #3F2E55;
+}
+
+.modal-body p{
+	font-size: 20px;
+}
+
+.modal-header {
+	border-bottom:none;
+}
+
+.modal-footer  {
+	border-top: none;
+}
+
+.modal-header h3 {
+	font-weight: bold;
+	color: #1098F7;
+	font-size: 30px;
+}
+
+.modal-content {
+	background-color: white;
+}
