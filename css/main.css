@@ -12,9 +12,6 @@ h1 {
 	color: #92374D;
 }
 
-h3 {
-	color: #E1DD8F;
-}
 
 a:visited, a:link, a:active{
 	text-decoration: none;
@@ -22,6 +19,24 @@ a:visited, a:link, a:active{
 
 a:hover{
 	color: grey;
+}
+
+
+/*header*/
+
+.header_subtitle {
+	color: #E1DD8F;
+	font-weight: bold;
+}
+
+
+/*section_1*/
+
+.coverImage{
+	width: 100%;
+	background-image: url("img/header-bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .full-width {
@@ -60,6 +75,9 @@ a:hover{
 .featuredHeading{
 	color: #3F2E55;
 }
+
+
+/*Modal*/
 
 .modal-body p{
 	font-size: 20px;
