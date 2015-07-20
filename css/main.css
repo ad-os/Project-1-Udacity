@@ -29,16 +29,6 @@ a:hover{
 	font-weight: bold;
 }
 
-
-/*section_1*/
-
-.coverImage{
-	width: 100%;
-	background-image: url("img/header-bg.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
 .full-width {
 	width: 100%;
 }
