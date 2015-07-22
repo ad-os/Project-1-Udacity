@@ -1,31 +1,32 @@
 * {
-	font-family: 'Poiret One', cursive;
+	font-family: "Poiret One", cursive;
 }
 
 hr {
-	border-top-width: 5px;
-	border-top-color: #4DB6AC;
+	border: 3px solid #4db6ac;
 }
 
 
 h1 {
-	color: #92374D;
+	color: #92374d;
 }
 
 
-a:visited, a:link, a:active{
+a:visited, 
+a:link, 
+a:active {
 	text-decoration: none;
 }
 
-a:hover{
-	color: grey;
+a:hover {
+	color: gray;
 }
 
 
 /*header*/
 
-.header_subtitle {
-	color: #E1DD8F;
+.header-subtitle {
+	color: #e1dd8f;
 	font-weight: bold;
 }
 
@@ -34,8 +35,7 @@ a:hover{
 }
 
 .margin{
-	margin-top: 20px;
-	margin-left: 20px;
+	margin : 20px 0 0 20px;
 }
 
 .weight {
@@ -46,44 +46,44 @@ a:hover{
 	font-size: 44px;
 }
 
-.rightMargin{
-	margin-right: 20px;
+.right-margin {
+	margin: 0 20px 0 0;
 }
 
-.center{
+.center {
 	text-align: center;
 }
 
-.linkedInColor{
-	color: #1B86BC;
+.linked-in-color {
+	color: #1b86bc;
 }
 
-.blackColor {
+.black-color {
 	color: black;
 }
 
-.featuredHeading{
-	color: #3F2E55;
+.featured-heading {
+	color: #3f2e55;
 }
 
 
 /*Modal*/
 
-.modal-body p{
+.modal-body-p {
 	font-size: 20px;
 }
 
 .modal-header {
-	border-bottom:none;
+	border-bottom: none;
 }
 
 .modal-footer  {
 	border-top: none;
 }
 
-.modal-header h3 {
+.modal-header-h3 {
 	font-weight: bold;
-	color: #1098F7;
+	color: #1098f7;
 	font-size: 30px;
 }
 
