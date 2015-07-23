@@ -6,11 +6,9 @@ hr {
 	border: 3px solid #4db6ac;
 }
 
-
 h1 {
 	color: #92374d;
 }
-
 
 a:visited, 
 a:link, 
@@ -64,7 +62,6 @@ a:hover {
 .featured-heading {
 	color: #3f2e55;
 }
-
 
 /*Modal*/
 
